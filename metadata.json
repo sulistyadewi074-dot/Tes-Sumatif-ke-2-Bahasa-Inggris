@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif Ke-2 Bahasa Inggris",
+  "description": "Aplikasi Tes Sumatif Bahasa Inggris Materi Our Hygiene Habits Kelas VI SD Negeri 3 Loloan Timur dengan 35 butir soal (20 PG, 5 PGK, 5 PGK Kategori, 5 Isian Singkat), sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
